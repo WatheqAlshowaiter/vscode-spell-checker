@@ -2231,7 +2231,7 @@
   "dependencies": {
     "@cspell/cspell-bundled-dicts": "^6.4.1",
     "@cspell/cspell-types": "^6.4.1",
-    "@types/react": "^17.0.47",
+    "@types/react": "^18.0.15",
     "cosmiconfig": "^7.0.1",
     "cspell": "^6.4.1",
     "regexp-worker": "^1.1.1"
